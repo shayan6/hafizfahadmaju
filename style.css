@@ -1,0 +1,14 @@
+body{
+	background: #f3f3f3
+}
+#handImg{
+	height: auto;
+	max-width:100%; 
+}
+section{
+	padding: 3%;
+}
+.col{
+	background-color: white;
+	border: 1px solid black;
+}
